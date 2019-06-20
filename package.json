@@ -1,0 +1,25 @@
+{
+  "name": "geojson-ghana-accra",
+  "version": "1.0.0",
+  "description": "GoeJSON from accra",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelRioTz/GeoJSON-Ghana-Accra.git"
+  },
+  "keywords": [
+    "geojson","accra"
+  ],
+  "author": "Samuel Rioja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamuelRioTz/GeoJSON-Ghana-Accra/issues"
+  },
+  "homepage": "https://github.com/SamuelRioTz/GeoJSON-Ghana-Accra#readme",
+  "dependencies": {
+    "osm-public-transport-export": "github:SamuelRioTz/osm-public-transport-export#refactor/log-format"
+  }
+}
